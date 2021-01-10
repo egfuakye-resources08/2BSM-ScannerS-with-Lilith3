@@ -1,0 +1,4 @@
+#cmakedefine MicrOMEGAs_FOUND
+#cmakedefine EVADE_FOUND
+#cmakedefine SCANNERS_DATA_DIR "${SCANNERS_DATA_DIR}"
+#cmakedefine BSMPT_FOUND
