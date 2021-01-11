@@ -1,0 +1,20 @@
+#ifndef MO_MODEL_INTERFACE_H
+#define MO_MODEL_INTERFACE_H
+
+#ifdef __cplusplus
+namespace ScannerS{
+namespace Interfaces {
+namespace MicrOMEGAs {
+extern "C" {
+#endif
+
+@SELECT_MODEL@
+
+#ifdef __cplusplus
+}
+} // namespace MicrOMEGAs
+} // namespace Interfaces
+} // namespace ScannerS
+#endif
+
+#endif

@@ -1,0 +1,25 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include "@MicrOMEGAs_CalcHEP_INCLUDE_DIR@/extern.h"
+#include "@MicrOMEGAs_CalcHEP_INCLUDE_DIR@/VandP.h"
+#include "ScannerS/Interfaces/MicrOMEGAs/MOModelInterface.h"
+extern int FError;
+
+int nModelParticles = -1;
+ModelPrtclsStr *ModelPrtcls;
+int nModelVars;
+int nModelFunc;
+char **varNames;
+REAL *varValues;
+char * WORK;
+static int nCurrentVars = 0;
+int *currentVarPtr = &nCurrentVars;
+
+@MODEL_ENUM@
+
+static enum MOModel MOModelChoice=-1;
+
+@MODEL_FUNCS@
+
+@CALC_MAIN_FUNC@
