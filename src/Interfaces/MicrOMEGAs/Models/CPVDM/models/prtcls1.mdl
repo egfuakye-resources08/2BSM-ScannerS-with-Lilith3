@@ -1,0 +1,24 @@
+N2HDM_CPVDM
+ Particles
+ Full  name  |A          |A+         | number |2*spin| mass          |width          |color|aux|>LaTex(A)<|>LaTeX(A+)   <|
+Electron-neut|ne         |Ne         |12      |1     |Mnue           |0              |1    |0  |ne        |Ne            |
+Mu-neutrino  |nm         |Nm         |14      |1     |Mnum           |0              |1    |0  |nm        |Nm            |
+Tau-neutrino |nl         |Nl         |16      |1     |Mnut           |0              |1    |0  |nl        |Nl            |
+Electron     |e          |E          |11      |1     |Me             |0              |1    |-3 |e         |E             |
+Muon         |m          |M          |13      |1     |MM             |0              |1    |-3 |m         |M             |
+Tau          |l          |L          |15      |1     |MTA            |0              |1    |-3 |l         |L             |
+u-quark      |u          |U          |2       |1     |MU             |0              |3    |2  |u         |U             |
+c-quark      |c          |C          |4       |1     |MC             |0              |3    |2  |c         |C             |
+t-quark      |t          |T          |6       |1     |MT             |!WT            |3    |2  |t         |T             |
+d-quark      |d          |D          |1       |1     |MD             |0              |3    |-1 |d         |D             |
+s-quark      |s          |S          |3       |1     |MS             |0              |3    |-1 |s         |S             |
+b-quark      |b          |B          |5       |1     |MB             |0              |3    |-1 |b         |B             |
+A            |a          |a          |22      |2     |0              |0              |1    |G  |a         |a             |
+Z            |Z          |Z          |23      |2     |MZ             |!WZ            |1    |G  |Z         |Z             |
+W            |W+         |W-         |24      |2     |MW             |!WW            |1    |G  |W+        |W-            |
+G            |g          |g          |21      |2     |0              |0              |8    |G  |g         |g             |
+h            |h          |h          |25      |0     |mHsm           |!WHsm          |1    |0  |h         |h             |
+H1           |~H1        |~H1        |35      |0     |mH1            |!WH1           |1    |0  |~H1       |~H1           |
+H2           |~H2        |~H2        |36      |0     |mH2            |!WH2           |1    |0  |~H2       |~H2           |
+H3           |~H3        |~H3        |28      |0     |mH3            |!WH3           |1    |0  |~H3       |~H3           |
+Hc           |~H+        |~H-        |37      |0     |mHc            |!WHc           |1    |3  |~H+       |~H-           |

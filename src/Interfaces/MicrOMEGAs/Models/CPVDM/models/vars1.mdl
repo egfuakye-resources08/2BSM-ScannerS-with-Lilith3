@@ -1,0 +1,43 @@
+N2HDM_CPVDM
+ Parameters
+  Name         | Value       |> Comment                                                                <|
+MZ             |91.1876      |Z pole mas                                                                |
+MW             |79.947       |W pole mass                                                               |
+aEWM1          |0.00775795190|EW coupling constant at the Z pole                                        |
+Gf             |0.0000116637 |Fermi constant                                                            |
+aS             |0.1172       |Strong coupling constant at the Z pole.                                   |
+mHsm           |125.09       |SM-like Higgs boson mass                                                  |
+mHc            |200.         |Charged scalar mass                                                       |
+alph1          |-0.1         |Dark-Scalar mixing angle                                                  |
+alph2          |-0.1         |Dark-Scalar mixing angle                                                  |
+alph3          |0.1          |Dark-Scalar mixing angle                                                  |
+mH1            |100.         |first BSM scalar mass                                                     |
+mH2            |200.         |second BSM scalar mass                                                    |
+m22sq          |100          |Inert doublet mass parameter                                              |
+mssq           |100          |Inert singlet mass parameter                                              |
+L2             |0.1          |Inert Doublet self coupling                                               |
+L6             |0.1          |Inert singlet self coupling                                               |
+L8             |0.1          |Inert sector quartic mixing                                               |
+MC             |1.2          |c mass at mc, MSbar                                                       |
+MB             |4.23         |b mass at mb, MSbar                                                       |
+MT             |172.5        |t pole mass                                                               |
+GG             |1.21358091448|Strong coupling constant   This value will be ignored and calculated from |
+Mnue           |0.           |Mass of ve.                                                               |
+Mnum           |0.           |Mass of vm.                                                               |
+Mnut           |0.           |Mass of vt.                                                               |
+Me             |0.           |Mass of e.                                                                |
+MM             |0.1057       |Mass of m.                                                                |
+MTA            |1.777        |Mass of ta.                                                               |
+MU             |0.           |Mass of u.                                                                |
+MD             |0.           |Mass of d.                                                                |
+MS             |0.           |Mass of s.                                                                |
+%WT            |2.           |Width of t.                                                               |
+%WZ            |2.4952       |Width of Z.                                                               |
+%WW            |2.085        |Width of W.                                                               |
+%WHsm          |1.           |Width of h.                                                               |
+%WH1           |0            |Width of H1.                                                              |
+%WH2           |0            |Width of H2.                                                              |
+%WH3           |0            |Width of H3.                                                              |
+%WHc           |1.           |Width of Hc.                                                              |
+E              |2.71828182845|The base of the natural logarithm.                                        |
+Pi             |3.14159265358|The circumference of a circle divided by the diameter.                    |
