@@ -1,5 +1,5 @@
-## BSM-ScannerS-with-Lilith3
-BSM-ScannerS-with-Lilith3 is a modified public code from the famous ScannerS-2 & Lilith2 code which scans parameters and checks points of parameters for standard-scalar theories (BSM). We use this code to study primarily Theory and phenomenology of two-Higgs-doublet models.
+## 2BSM-ScannerS-with-Lilith3
+2BSM-ScannerS-with-Lilith3 is a modified public code from the famous ScannerS-2 & Lilith2 code which scans parameters and checks points of parameters for standard-scalar theories (BSM). We use this code to study primarily Theory and phenomenology of two-Higgs-doublet models.
 
 ## ScannerS
 
