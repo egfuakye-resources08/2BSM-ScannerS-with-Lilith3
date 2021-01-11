@@ -1,5 +1,5 @@
 <!--
-CMS result for mu(ttH, 2SS) at mH = 125.6 GeV
+CMS result for mu(ttH, 3l) at mH = 125.6 GeV
 http://cds.cern.ch/record/1748396?ln=en
  -->
 
@@ -9,14 +9,15 @@ http://cds.cern.ch/record/1748396?ln=en
   <sqrts>8</sqrts>
   <mass>125.6</mass>
 
+
   <eff prod="ttH" decay="WW">0.75</eff>
   <eff prod="ttH" decay="tautau">0.25</eff>
 
-  <bestfit>5.3</bestfit>
+  <bestfit>3.1</bestfit>
   
   <param>
-    <uncertainty side="left">-1.8</uncertainty>
-    <uncertainty side="right">2.1</uncertainty>
+    <uncertainty side="left">-2.0</uncertainty>
+    <uncertainty side="right">2.4</uncertainty>
     <!-- if not needed, just <uncertainty></uncertainty> -->
   </param>
 </expmu>
