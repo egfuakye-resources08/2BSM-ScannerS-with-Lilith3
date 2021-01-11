@@ -1,3 +1,7 @@
+# Lilith3
+Lilith3 is a modified public Python library from the  general Lilith-2 code for constraining new physics from Higgs signal strength measurements.
+We modify mostly the example codes with new physics parameters. 
+
 # Lilith-2
 
 Lilith (Light Likelihood Fit for the Higgs) is a light and easy-to-use Python tool for constraining new physics from signal strength measurements of the 125 GeV Higgs boson. Lilith is provided with the latest experimental measurements from the ATLAS and CMS collaborations at the LHC. The Higgs likelihood is based on experimental results stored in an easily extensible XML database; it is evaluated from the user input, given in XML format in terms of reduced couplings or signal strengths. 
